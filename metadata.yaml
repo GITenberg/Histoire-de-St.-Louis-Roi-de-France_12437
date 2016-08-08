@@ -1,0 +1,29 @@
+_repo: Histoire-de-St.-Louis-Roi-de-France_12437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bury, Richard Girard de
+    aliases:
+    - Buri, M. de (Richard Girard)
+    - De Bury, Richard Girard
+    - Bury, Richard de
+    gutenberg_agent_id: '26473'
+    url: http://www.gutenberg.org/2009/agents/26473
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12437'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louis IX, King of France, 1214-1270'
+- !lcc 'DC'
+- !lcsh 'Crusades'
+- !lcsh 'France -- History -- 13th century'
+- GITenberg
+title: Histoire de St. Louis, Roi de France
+url: http://www.gutenberg.org/ebooks/12437
